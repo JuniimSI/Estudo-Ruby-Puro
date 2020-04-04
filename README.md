@@ -6,4 +6,7 @@
  
  Se preferir como editor, use o VsCode, tem várias extensões boas.
  https://code.visualstudio.com/insiders/
+
+ Para as gems, ir no Project e dar o bundle
+ 
  
