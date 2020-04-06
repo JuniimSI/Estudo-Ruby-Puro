@@ -1,0 +1,1 @@
+from: en, to: pt, text: ["talvez possamos este"]
